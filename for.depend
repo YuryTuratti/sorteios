@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1763223379 source:c:\users\limay\onedrive\Área de trabalho\dankicode\curso c\for\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
